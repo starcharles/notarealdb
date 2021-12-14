@@ -1,11 +1,11 @@
 {
-  "name": "notarealdb",
-  "version": "0.2.2",
+  "name": "@starcharles/notarealdb",
+  "version": "0.0.1",
   "description": "A \"fake\" database for Node.js that stores data in local JSON files, for testing and sample applications.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mirkonasato/notarealdb.git"
+    "url": "https://github.com/starcharles/notarealdb"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
